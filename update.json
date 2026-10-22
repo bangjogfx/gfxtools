@@ -5,5 +5,8 @@
   "changelog": "Perbaikan Bypass dan fitur Bahasa.",
   "showNotification": true,
   "notificationTitle": "PENGUMUMAN PENTING",
-  "notificationMessage": "Jam 00:00 nanti aplikasi akan berakhir, terima kasih sudah menggunakannya, semoga kita bisa berjumpa lagi🫰SALAM Damai By BangJO"
+  "notificationMessage": "aplikasi sudah berakhir, terima kasih sudah menggunakannya, semoga kita bisa berjumpa lagi🫰SALAM Damai Saya BangJO",
+  "showCountdown": true,
+  "countdownMessage": "janda anak dua ekwkwk",
+  "releaseTimestamp": 1792770762000
 }
