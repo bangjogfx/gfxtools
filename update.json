@@ -1,12 +1,12 @@
 {
-  "versionCode": 5,
-  "versionName": "4.1",
-  "telegramUrl": "https://t.me/RedHexOfficial/3411",
+  "versionCode": 6,
+  "versionName": "5.0",
+  "telegramUrl": "https://t.me/RedHexOfficial/3413",
   "changelog": "Perbaikan Bypass dan fitur Bahasa.",
   "showNotification": true,
   "notificationTitle": "PENGUMUMAN PENTING",
-  "notificationMessage": "aplikasi sudah berakhir, terima kasih sudah menggunakannya, semoga kita bisa berjumpa lagi🫰SALAM Damai Saya BangJO",
+  "notificationMessage": "Silakan gunakan versi terbaru untuk kenyamanan bermain.",
   "showCountdown": true,
-  "countdownMessage": "janda anak dua ekwkwk",
-  "releaseTimestamp": 1792770762000
+  "countdownMessage": "Inisialisasi upgrade sistem... Dekripsi data sedang diproses. Akses Aplikasi akan segera dibuka.",
+  "releaseTimestamp": 1792719001000
 }
