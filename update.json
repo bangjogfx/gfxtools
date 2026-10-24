@@ -5,7 +5,8 @@
   "changelog": "Perbaikan Bypass dan fitur Bahasa.",
   "showNotification": true,
   "notificationTitle": "PENGUMUMAN PENTING",
-  "notificationMessage": "Jika anda menyukai aplikasi ini berikin dukungan  dichannel telegram resmi kami serta berikan komentar anda. TerimaKasih", 
+  "notificationMessage": "Jika anda menyukai aplikasi ini berikin dukungan  dichannel telegram resmi kami serta berikan komentar anda. TerimaKasih",
+  "showCountdown": true,
   "countdownMessage": "Sistem dalam perbaikan",
   "releaseTimestamp": 1792885869000
 }
