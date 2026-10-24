@@ -5,8 +5,7 @@
   "changelog": "Perbaikan Bypass dan fitur Bahasa.",
   "showNotification": true,
   "notificationTitle": "PENGUMUMAN PENTING",
-  "notificationMessage": "Silakan gunakan versi terbaru untuk kenyamanan bermain.",
-  "showCountdown": true,
-  "countdownMessage": "Inisialisasi upgrade sistem... Dekripsi data sedang diproses. Akses Aplikasi akan segera dibuka.",
-  "releaseTimestamp": 1792691422000
+  "notificationMessage": "Jika anda menyukai aplikasi ini berikin dukungan  dichannel telegram resmi kami serta berikan komentar anda. TerimaKasih", 
+  "countdownMessage": "Sistem dalam perbaikan",
+  "releaseTimestamp": 1792885869000
 }
